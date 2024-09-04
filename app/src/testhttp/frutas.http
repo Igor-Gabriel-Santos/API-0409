@@ -1,0 +1,8 @@
+@url =  https://8080-igorgabrielsant-api0409-mh50ch4hb8m.ws-us116.gitpod.io
+
+###
+
+GET {{url}}/frutas
+
+###
+GET {{url}}/frutas/2
